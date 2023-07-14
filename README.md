@@ -1,3 +1,3 @@
 # Demo
 
-This is a demo of a read me
+This is a demo of a Read file, which is a markdown text
